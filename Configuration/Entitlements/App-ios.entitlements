@@ -6,6 +6,7 @@
 	<string>development</string>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
+		<string>applinks:my.home-assistant.io</string>
 		<string>applinks:home-assistant.io</string>
 		<string>applinks:*.home-assistant.io</string>
 		<string>applinks:my.home-assistant.io</string>
